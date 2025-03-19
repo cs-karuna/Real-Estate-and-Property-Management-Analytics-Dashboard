@@ -1,4 +1,5 @@
 # Real-Estate-and-Property-Management-Analytics-Dashboard
+Here is the link of project https://drive.google.com/file/d/10eLUzRNDf4HK-fnh9FoHXA4EjybcCxgV/view?usp=gmail
 Project Overview
 
 The Real Estate and Property Management Analytics Dashboard is a Power BI project that provides insightful visualizations and analytics for real estate businesses. It helps in tracking property listings, sales trends, revenue insights, and customer engagement metrics to make data-driven decisions.
