@@ -20,7 +20,6 @@ Technologies Used
 
 Power BI: For data visualization and dashboard creation.
 
-Data Sources: (Mention if you used Excel, SQL, or any API for data extraction)
 
 How to Use
 
